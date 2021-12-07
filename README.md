@@ -6,8 +6,8 @@ I am Romy (She/Her), currently working as a Software Engineer at BJSS, a large i
 ...
 
 ## Currently Working On
-+ **Advent of Code 2021**! 🎄
-+ My version of the Spotify **Team Health Check**.
++ [**Advent of Code 2021**](https://github.com/RomyBos/advent-of-code-2021)! 🎄
++ My version of the Spotify [**Team Health Check**](https://github.com/RomyBos/team-health-check).
 
 ## Currently Learning
 ...

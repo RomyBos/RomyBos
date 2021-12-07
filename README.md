@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hi There 👋
+
+I am Romy (She/Her), currently working as a Software Engineer at BJSS, a large international and award-winning tech consultancy.
+
+## My View and Approach
+...
+
+## Currently Working On
+...
+
+## Currently Learning
+...
+
+## Education 📚
++ Degree in ICT - Major: Software Engineering from the Hanze University of Applied Sciences in Groningen, the Netherlands
++ Study Abroad at Northern Arizona University in Arizona, United States
 
 <!--
 **RomyBos/RomyBos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

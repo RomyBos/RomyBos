@@ -10,7 +10,10 @@ I am Romy (She/Her), currently working as a Software Engineer at BJSS, a large i
 + My version of the Spotify [**Team Health Check**](https://github.com/RomyBos/team-health-check).
 
 ## Currently Learning
-...
++ [**Microsoft Certified: Azure Fundamentals**](https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals/#certification-exams)
+
+## Want to Learn
++ Sign language
 
 ## Education 📚
 + Degree in ICT - Major: Software Engineering from the Hanze University of Applied Sciences in Groningen, the Netherlands
